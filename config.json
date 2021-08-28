@@ -1,5 +1,5 @@
 {
-    "email": "",
+    "email": "comi061q@gmail.com",
     "password": "",
     "cid": "CID_028_Athena_Commando_F",
     "bid": "BID_004_BlackKnight",
@@ -8,9 +8,9 @@
     "banner_color": "defaultcolor22",
     "level": "999",
     "bp_tier": "999",
-    "status": "Xensis Lobby Bot - discord.gg/88r2ShB",
-    "platform": "PSN",
+    "status": "انستا ve9.2",
+    "platform": "WIN",
     "friendaccept": "True",
-    "joinoninvite": "True",
+    "joinoninvite": "false",
     "AdminPassword": "0001"
 }
